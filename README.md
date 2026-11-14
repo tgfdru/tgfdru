@@ -39,10 +39,10 @@ A source-backed RAG assistant integrated into the Sheykak mobile app. **I built 
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · SQL · JavaScript · HTML/CSS
-**ML / DL:** scikit-learn · PyTorch · pandas · NumPy
-**LLMs & NLP:** RAG · AI agents · embeddings & reranking · Arabic text processing
-**Apps & Deployment:** Streamlit · Gradio · FastAPI · Docker · Hugging Face Spaces
+- **Languages:** Python · SQL · JavaScript · HTML/CSS
+- **ML / DL:** scikit-learn · PyTorch · pandas · NumPy
+- **LLMs & NLP:** RAG · AI agents · embeddings & reranking · Arabic text processing
+- **Apps & Deployment:** Streamlit · Gradio · FastAPI · Docker · Hugging Face Spaces
 
 ## 📫 Connect
 
