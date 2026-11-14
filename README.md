@@ -47,4 +47,3 @@ A source-backed RAG assistant integrated into the Sheykak mobile app. **I built 
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nader%20Alshehri-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nader-alshehri-15671b298)
-[![X](https://img.shields.io/badge/X-@0x__per-000000?logo=x&logoColor=white)](https://x.com/0x_per)
